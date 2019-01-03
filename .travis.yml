@@ -1,8 +1,8 @@
+sudo: required
 language: node_js
 node_js:
-  - "6"
+  - "8.9"
 
 script:
-- npm run build
-- npm run bundles
-- npm run test:single
+- yarn build:lib
+- yarn test:lib
