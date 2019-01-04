@@ -1,14 +1,14 @@
 {
-    "name": "ng2-bs3-modal",
-    "version": "0.15.0",
+    "name": "@leanix/ng2-bs3-modal",
+    "version": "0.15.2",
     "description": "Angular Boostrap 3 Modal Component",
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/dougludlow/ng2-bs3-modal.git"
+        "url": "git+ssh://git@github.com/psurrey/ng2-bs3-modal.git"
     },
     "bugs": {
-        "url": "https://github.com/dougludlow/ng2-bs3-modal/issues"
+        "url": "https://github.com/psurrey/ng2-bs3-modal/issues"
     },
     "keywords": [
         "angular",
